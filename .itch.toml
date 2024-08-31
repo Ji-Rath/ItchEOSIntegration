@@ -1,0 +1,5 @@
+[[actions]]
+name = "play"
+path = "EOSItchIntegration.exe"
+scope = "profile:me"
+args = ["-log"]
