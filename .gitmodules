@@ -1,0 +1,3 @@
+[submodule "Plugins/EIKIntegrationKit"]
+	path = Plugins/EIKIntegrationKit
+	url = https://github.com/betidestudio/EOSIntegrationKit
