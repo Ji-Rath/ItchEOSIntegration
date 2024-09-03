@@ -3,7 +3,7 @@
 #include "ItchLibrary.generated.h"
 
 UCLASS()
-class EOSITCHINTEGRATION_API UItchLibrary : public UBlueprintFunctionLibrary
+class ITCHINTEGRATION_API UItchLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	

@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ItchIntegration",
+	"Description": "Implement Itch integration through their App or via OAuth.",
+	"Category": "Other",
+	"CreatedBy": "Ji_Rath",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ItchIntegration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
