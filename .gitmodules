@@ -1,3 +1,6 @@
 [submodule "Plugins/EIKIntegrationKit"]
 	path = Plugins/EIKIntegrationKit
 	url = https://github.com/betidestudio/EOSIntegrationKit
+[submodule "Plugins/UEItchAuth"]
+	path = Plugins/UEItchAuth
+	url = https://github.com/Ji-Rath/UEItchAuth
